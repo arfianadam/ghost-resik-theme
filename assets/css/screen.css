@@ -60,7 +60,7 @@ body {
 /* Centered content container blocks */
 .inner {
     margin: 0 auto;
-    max-width: 768px;
+    max-width: 740px;
     width: 100%;
 }
 
