@@ -139,11 +139,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    padding: 10vw 4vw;
+    align-items: flex-start;
+    padding: 10vw 0;
     min-height: 200px;
     max-height: 450px;
-    text-align: center;
 }
 
 .site-title {
