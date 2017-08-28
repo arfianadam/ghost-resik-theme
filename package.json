@@ -7,6 +7,7 @@
     "ghost": ">=1.0.0"
   },
   "scripts": {
+    "build": "gulp build",
     "watch": "gulp"
   },
   "license": "MIT",
